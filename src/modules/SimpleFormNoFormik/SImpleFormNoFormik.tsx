@@ -1,6 +1,5 @@
 import React from "react";
-interface Props {}
 
-export function SimpleFormNoFormik({}: Props) {
+export function SimpleFormNoFormik() {
   return <>SimpleFormNoFormik</>;
 }

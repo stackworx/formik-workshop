@@ -1,7 +1,5 @@
 import React from "react";
 
-interface Props {}
-
-export function SimpleFormWithFormik({}: Props) {
+export function SimpleFormWithFormik() {
   return <>SimpleFormWithFormik</>;
 }
